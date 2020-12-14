@@ -16,4 +16,4 @@
     * Jupyter notebookを使用
 * template
     * MediaWikiにインポートするためのxmlテンプレフォルダ
-    
+    * 
